@@ -1,0 +1,29 @@
+{
+    "Discord" : [
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : true,
+            "IncludeUserReply" : false,
+            "twitter_ids" : ["1011373865728118785"],
+            "webhook_urls" : ["https://discordapp.com/api/webhooks/484723815914536981/2dvio3cTmL2SzDFIUVCqCim-p5HlvXwQn8-E8XNjpdg9jyPeiqItA7H0VzSrirPYa4KH"]
+        },
+        {
+            "IncludeReplyToUser" : false,
+            "IncludeRetweet" : true,
+            "IncludeUserReply" : false,
+            "twitter_ids" : [
+                "1333467482",
+                "2207129125",
+                "963409157050241025"
+            ],
+            "webhook_urls" : ["https://discordapp.com/api/webhooks/460416701960552448/TKei7X0P_-mZZ4x6pndMnpFIsGwWWC_gEsUNF_Ud24tLWYUfGVgyw0TGFC3U_YmJYeEH"]
+        }
+    ],
+    "Twitter" : {
+        "access_token" : "943550132968046593-1i822DTIs1sgNBN5hSfHE9gntmO7HGj",
+        "access_token_secret" : "cMQSCZ0x4nsARORSGYTZ0FYFbeQ63eYhSg0khv7kljb6e",
+        "consumer_key" : "SV5t0brpNakzXKg12NBCZKjoL",
+        "consumer_secret" : "aOL2P2P9cpCzDBt0azo9HsryC0L06A2OyUpLI1TmcoF77pPr9P"
+    },
+    "twitter_ids" : []
+}
